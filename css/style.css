@@ -18,11 +18,22 @@ h1 {
   font-size: 260%;
 }
 
+ul {
+  list-style: none;
+}
+
+li {
+  padding: 24px;
+  display: inline;
+  font-size: 120%;
+}
+
 .center {
   position: absolute;
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
