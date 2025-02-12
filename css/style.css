@@ -17,7 +17,7 @@ h1 {
   padding: 48px 96px;
   margin: 4px;
   font-size: 260%;
-  letter-spacing: 6px;
+  letter-spacing: 8px;
 }
 
 a {
@@ -27,13 +27,13 @@ a {
   display: inline-block;
   transition: all 500ms;
   text-decoration: none;
-  letter-spacing: 2px;
-  font-size: 120%;
+  letter-spacing: 6px;
+  font-size: 110%;
   color: rgb(204, 204, 204);
 }
 
 a:hover {
-  letter-spacing: 8px;
+  letter-spacing: 10px;
   color: rgb(255, 255, 255)
 }
 
