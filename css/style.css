@@ -17,6 +17,19 @@ h1 {
   padding: 48px 96px;
   margin: 4px;
   font-size: 260%;
+  letter-spacing: 6px;
+}
+
+a {
+  transition: all 500ms;
+  text-decoration: none;
+  letter-spacing: 2px;
+  color: rgb(204, 204, 204);
+}
+
+a:hover {
+  letter-spacing: 8px;
+  color: rgb(255, 255, 255)
 }
 
 ul {
