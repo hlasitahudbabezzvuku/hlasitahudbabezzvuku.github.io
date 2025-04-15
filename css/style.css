@@ -60,11 +60,11 @@ li {
 }
 
 .black {
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(0, 0, 0, 0.8);
 }
 
 .blur {
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(12px);
 }
 
 #parallax {
